@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Make changes in the my feature branch too.
 
 ## Purpose
 
